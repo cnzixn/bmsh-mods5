@@ -1,0 +1,4 @@
+21:15:19 ..\..\src\simpleeventcontroller.cpp:1470 IN: Adjust Automatic Sample Rate
+21:15:19 ..\..\src\simpleeventcontroller.cpp:1470 IN: Adjust Automatic Sample Rate
+21:15:19 ..\..\src\simpleeventcontroller.cpp:1470 IN: Adjust Automatic Sample Rate
+21:15:45 ..\..\src\simpleeventcontroller.cpp:1310 IR: Remove Sounds from Playlist
