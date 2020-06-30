@@ -1,0 +1,150 @@
+
+
+About
+
+Art by Monoko
+Code by Monoko
+
+Winter Princess-Sherry
+
+Lv0 Hunger 120   health 75 sanity 120
+Lv100max   160         175        170
+Eat favorite food to upgrade  
+Hungryspeed = 1.1*wilson
+
+Speed 
+
+sanity< 30% slow
+sanity> 80% fast
+
+Power
+Eat meals add power
+Eat favorite foods add extra power
+Eat dislike foods reduce power
+
+Picky eater
+ 
+Hate to eat expired food
+Eat favorite foods add extra properties
+Eat dislike foods reduce properties
+
+Heat intolerance
+temperature>60   reduce health
+Afraid of fire
+
+Winter pricess
+Not afraid of the cold in winter
+Health regeneration in winter
+Reduce sanity in summer
+
+Skill
+
+key v
+consume 25 power  20 hunger
+ATK = 50 + lv x 2
+Freeze 
+
+key z 
+check power
+
+key x
+check level
+
+
+Specil items
+
+1.broken sword
+Unlimited number of uses   
+ATK 30 
+Can chop bamboo
+
+2. sword Frozensnow
+Unlimited number of uses     
+ATK = 40+lv/5 
+Can chop bamboo
+Extra ATK if target frozen
+Kill monster to got chance to upgrade
+Maxlevel 100
+
+3. Ice crown
+Increase the sanity small 
+Keep cool
+Add light small
+Can repair by ice
+
+4.Scabbard
+cantain 4
+keep fresh
+
+5.Feather fan
+More hurricanes
+
+6.Ice birdcage
+Robin_winter only
+have chance to produce 2 eggs and more seed
+
+7.Winter bell
+Summon winter animals include walrus 
+
+8.Magic book
+Add sanity large by consuming lightingice
+
+9.Ice boomerang
+Auto catch
+Freeze target
+
+10.Coldfire torch
+Keep cold
+can't ignite
+
+11.Ice field
+Freeze enemy
+Add light
+Increase the sanity small 
+
+12.Ice chest
+Contain 5x5
+keep fresh
+
+13.Ice Tools
+axe,pickaxe,shovel
+Unlimited number of uses in one day
+
+14.Ice armor
+Fireproof
+Prevent poisoning
+
+15.My statue
+No penalty
+
+16.Purple carpet and Ancient turf
+Looks cool
+
+17.Bee house
+Produce butter
+
+18.Feather bagpack
+Speed up
+Waterproof
+Contain 2x5
+
+19.Lighting icicle
+More light
+
+20.Blueberry
+Can crop
+Add 6 meals
+
+Blueberry fish soup = Blueberry 2 + fish>0.5
+Blueberrycookie = Blueberry + honey 2
+Blueberrymuffin = Blueberry + veggie (no fish meat egg
+Blueberry Egg Tart = Blueberry 2 + birdegg 2
+Blueberry juice = Blueberry + ice +twigs
+Blueberry BBQ = Blueberry 2 + meat> 0.5
+
+21.Statueharp
+A statue with his head
+
+
+
+
