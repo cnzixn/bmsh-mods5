@@ -1,0 +1,39 @@
+Warning: QPainter::begin: Paint device returned engine == 0, type: 1
+Warning: QPainter::setPen: Painter not active
+Warning: QPainter::setBrush: Painter not active
+Warning: QPainter::setRenderHint: Painter must be active to set rendering hints
+Warning: QPainter::setPen: Painter not active
+Debug: "21:15:19 ..\..\src\simpleeventcontroller.cpp:1470 IN: Adjust Automatic Sample Rate" 
+Debug: "21:15:19 ..\..\src\simpleeventcontroller.cpp:1470 IN: Adjust Automatic Sample Rate" 
+Debug: "21:15:19 ..\..\src\simpleeventcontroller.cpp:1470 IN: Adjust Automatic Sample Rate" 
+Debug: "21:15:45 ..\..\src\simpleeventcontroller.cpp:1310 IR: Remove Sounds from Playlist" 
+Debug: 
+Building project 'dracul'...
+Debug: Building project C:\Program Files (x86)\Steam\SteamApps\common\Don't Starve Together\mods\workshop-893002186\sound\dracul.fev...
+Debug: Unique sound defs 1/4
+Debug: Retrieving sound file info...
+Debug: Retrieving reverb info...
+Debug: FEV file written ok
+Debug: Unique Envelope Points: 0 of 0
+Debug: Unique Strings: 182 characters of 182
+Debug: Caching sound file details for ''...
+Debug: ..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\death2.mp3
+Debug: ..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\emote2.mp3
+Debug: ..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\hit2.mp3
+Debug: ..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\talking2.mp3
+Debug: ..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\talking3.mp3
+Debug: ..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\talking4.mp3
+Debug: Building 'dracul.fsb'
+Debug: Encoded C:\Program Files (x86)\Steam\SteamApps\common\Don't Starve Together\mods\workshop-893002186\sound\..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\emote2.mp3
+Debug: Encoded C:\Program Files (x86)\Steam\SteamApps\common\Don't Starve Together\mods\workshop-893002186\sound\..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\hit2.mp3
+Debug: Encoded C:\Program Files (x86)\Steam\SteamApps\common\Don't Starve Together\mods\workshop-893002186\sound\..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\death2.mp3
+Debug: Encoded C:\Program Files (x86)\Steam\SteamApps\common\Don't Starve Together\mods\workshop-893002186\sound\..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\talking2.mp3
+Debug: Encoded C:\Program Files (x86)\Steam\SteamApps\common\Don't Starve Together\mods\workshop-893002186\sound\..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\talking3.mp3
+Debug: Encoded C:\Program Files (x86)\Steam\SteamApps\common\Don't Starve Together\mods\workshop-893002186\sound\..\..\..\..\..\..\..\..\users\thegamerdracul\music\sfx\dst sfx\dracul\talking4.mp3
+Debug: Writing FSB...
+Debug: Finished building FSB
+Debug: 
+Debug: 
+Summary of build:
+SUCCESS: C:/Program Files (x86)/Steam/SteamApps/common/Don't Starve Together/mods/workshop-893002186/sound/dracul.fev
+SUCCESS: dracul.fsb
